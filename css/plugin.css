@@ -1,0 +1,73 @@
+
+/*--------------------------- 
+Add Plugin Front-End CSS here 
+---------------------------*/
+
+.vehicle-booking-form input[type="text"], 
+.vehicle-booking-form input[type="email"],
+.vehicle-booking-form select,
+.vehicle-booking-form input[type="number"], 
+.vehicle-booking-form input[type="url"], 
+.vehicle-booking-form input[type="password"], 
+.vehicle-booking-form input[type="search"] {
+    height: 48px;
+    width: 100%;
+    -webkit-appearance: none;
+    border: 1px solid #eeeeee;
+    padding: 0 15px !important;
+}
+/*--------------------------- 
+Responsive CSS here 
+*
+*   Remember these queries are a good start
+*   but media queries go much deeper than this.
+*
+---------------------------*/
+/*
+Medium/Large Screens 
+*/
+@media only screen and (max-width: 1430px) {
+    
+}
+/*
+Medium Screens 
+*/
+@media only screen and (max-width: 1280px) {
+    
+}
+/*
+Large Tablet Screens 
+*/
+@media only screen and (max-width: 980px) {
+    
+}
+/*
+Medium Tablet Screens 
+*/
+@media only screen and (max-width: 768px) {
+
+}
+/*
+Small Tablet/Largest Phone Screens 
+*/
+@media only screen and (max-width: 600px) {
+    
+}
+/*
+Large Phone Screens 
+*/
+@media only screen and (max-width: 420px) {
+    
+}
+/*
+Medium Phone Screens 
+*/
+@media only screen and (max-width: 380px) {
+    
+}
+/*
+Small Phone / Apple Watch Screens 
+*/
+@media only screen and (max-width: 320px) {
+    
+}
